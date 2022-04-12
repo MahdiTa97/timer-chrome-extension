@@ -14,7 +14,8 @@
       "24": "icon.png",
       "32": "icon.png"
     },
-    "default_title": "Click Me",
+    "default_title": "Timer Chrome Extension",
     "default_popup": "popup.html"
-  }
+  },
+  "options_page": "options.html"
 }
